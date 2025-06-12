@@ -16,6 +16,8 @@ The raw data can be found at [IEMOCAP](https://sail.usc.edu/iemocap/ "IEMOCAP") 
 
 In our paper, we use pre-extracted features. The multimodal features (including RoBERTa-based and GloVe-based textual features) are available at [here](https://www.dropbox.com/sh/4b21lympehwdg4l/AADXMURD5uCECN_pvvJpCAy9a?dl=0 "here").
 
+Download [MELD](https://github.com/SenticNet/MELD "MELD") and set to path "./MELD/raw-texts" to obtain speaker information.
+
 ### Checkpoints
 
 The implementation results may vary with training machines and random seeds. We suggest that one can try different random seeds for better results.
