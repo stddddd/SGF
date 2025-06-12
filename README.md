@@ -25,11 +25,15 @@ The implementation results may vary with training machines and random seeds. We 
 
 To train on IEMOCAP:
 
+```
 bash train_IEMOCAP.sh
+```
 
 To train on MELD:
 
+```
 bash train_MELD.sh
+```
 
 ## Reference
 
